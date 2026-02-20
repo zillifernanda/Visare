@@ -13,7 +13,7 @@ const DatenschutzSection = () => {
               Visare Augenheilkunde — Dr. med. Anna Keller<br />
               Musterstraße 12, 88045 Friedrichshafen<br />
               E-Mail: info@visare-augen.de<br />
-              Telefon: +49 (0)30 123 456 789
+              Telefon: +49 123 456 789
             </p>
           </div>
 

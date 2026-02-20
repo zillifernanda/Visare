@@ -19,7 +19,7 @@ const ImpressumSection = () => {
 
           <div>
             <h3 className="text-foreground font-semibold text-base mb-1">Kontakt</h3>
-            <p>Telefon: +49 (0)30 123 456 789<br />E-Mail: info@visare-augen.de</p>
+            <p>Telefon: +49 123 456 789<br />E-Mail: info@visare-augen.de</p>
           </div>
 
           <div>

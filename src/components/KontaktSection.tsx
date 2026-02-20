@@ -32,8 +32,8 @@ const KontaktSection = () => {
               <Phone className="h-5 w-5 text-primary mt-0.5" />
               <div>
                 <p className="font-medium text-foreground text-sm">Telefon</p>
-                <a href="tel:+4930123456789" className="text-muted-foreground text-sm hover:text-primary transition-colors">
-                  +49 (0)30 123 456 789
+                <a href="tel:+49123456789" className="text-muted-foreground text-sm hover:text-primary transition-colors">
+                  +49 123 456 789
                 </a>
               </div>
             </div>
