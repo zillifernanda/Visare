@@ -1,5 +1,5 @@
 import { CheckCircle, Quote } from "lucide-react";
-import doctorImg from "@/assets/doctor-anna.jpg";
+import doctorImg from "@/assets/images/doctor-anna.jpg";
 
 const DoctorSection = () => {
   const specialties = [

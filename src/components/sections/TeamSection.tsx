@@ -1,5 +1,5 @@
-import lauraImg from "@/assets/team-laura.jpg";
-import sofiaImg from "@/assets/team-sofia.jpg";
+import lauraImg from "@/assets/images/team-laura.jpg";
+import sofiaImg from "@/assets/images/team-sofia.jpg";
 
 interface TeamMember {
   name: string;

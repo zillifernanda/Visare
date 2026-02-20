@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ShieldCheck, Eye, Microscope } from "lucide-react";
-import heroImage from "@/assets/hero-clinic.jpg";
+import heroImage from "@/assets/images/hero-clinic.jpg";
 
 const Hero = () => {
   const badges = [
